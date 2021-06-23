@@ -32,5 +32,5 @@ TAGLINKS =
 
 # PROJECT_LOGO           = "logo50x50.jpg"
 # DOXYFILE_ENCODING      = UTF-8
-# PROJECT_NAME           = Sandsara
-# USE_MDFILE_AS_MAINPAGE = "README.md"
+PROJECT_NAME           = Sandsara
+USE_MDFILE_AS_MAINPAGE = "README.md"
