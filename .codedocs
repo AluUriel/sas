@@ -1,3 +1,4 @@
 DISABLE_INDEX = YES
 EXTRACT_LOCAL_CLASSES = YES
 GENERATE_TREEVIEW = YES
+IMAGE_PATH             = "docs\images folder"
